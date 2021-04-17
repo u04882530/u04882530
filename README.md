@@ -1,2 +1,14 @@
-[README (1).md](https://github.com/u04882530/u04882530/files/6329471/README.1.md)
-
+Hi 👋, I'm Benjamin van Staden
+A passionate student in backend developer from South Africa.
+🔭 I’m currently working on Mini_Project_Crowdbook
+🌱 I’m currently learning Java
+📫 How to reach me u04882530@tuks.co.za
+Connect with me:
+props.username
+Languages and Tools:
+cplusplus
+css3
+html5
+java
+linux
+mysql
